@@ -1,0 +1,3 @@
+JMH S 27 org.javacodegeeks.BenchMark S 54 org.javacodegeeks.jmh_generated.BenchMark_init_jmhTest S 4 init S 10 Throughput E A 1 1 1 E E E E E E E I 1 1 I 1 2 E E E E E E E E 
+JMH S 27 org.javacodegeeks.BenchMark S 53 org.javacodegeeks.jmh_generated.BenchMark_op1_jmhTest S 3 op1 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 27 org.javacodegeeks.BenchMark S 53 org.javacodegeeks.jmh_generated.BenchMark_op2_jmhTest S 3 op2 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 

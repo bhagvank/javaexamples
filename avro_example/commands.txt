@@ -1,0 +1,4 @@
+
+
+ java -classpath '.:./*' AvroReaderExample
+ javac -cp "./*" AvroReaderExample.java
